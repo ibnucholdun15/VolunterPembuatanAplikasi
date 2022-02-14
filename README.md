@@ -7,3 +7,4 @@ Volunter, silakan lakukan PR(pull-request) pada berkas ini ya. Silakan gunakan f
 Berikut daftar Volunter yang diterima:  
 
 * Oon Arfiandwi, [oo.or.id](https://oo.or.id).
+* Ibnu Choldun, [Linkedin](https://www.linkedin.com/in/gilang-adhan/).
